@@ -1,4 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+NAME :JAYACHITRA J
+REG NO:212224040132
 
 ## AIM:
 To create a warehouse application in salesforce.com
